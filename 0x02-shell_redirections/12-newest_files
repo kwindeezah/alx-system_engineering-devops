@@ -1,2 +1,2 @@
 i#!/bin/bash
-ls -t -printf "/n" | head
+ls -t
